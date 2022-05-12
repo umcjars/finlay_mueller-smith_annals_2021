@@ -3,4 +3,3 @@
 ## Files
 
  - `finlay_mueller-smith_annals_2021_fig1-2.xlsx`: Statistics required to reproduce Figures 1 and 2.
- - 
